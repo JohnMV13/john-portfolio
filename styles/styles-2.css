@@ -66,6 +66,11 @@ h2 {
   border-bottom: 1px solid rgb(7,7,7);
 }
 
+.delta {
+  margin: 0;
+  padding: 2%;
+}
+
 .work {
   padding: 3px;
 }
